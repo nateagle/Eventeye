@@ -1,0 +1,7 @@
+{
+  "name": "EventBudget & AiDesign",
+  "description": "A professional event planning and budgeting tool integrated with Gemini AI for creative image editing and cost estimation.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
